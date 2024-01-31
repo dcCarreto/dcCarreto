@@ -1,23 +1,23 @@
 
 
-# Oi, me chamo [Denis Carreto] 👋
+# Oi, me chamo Denis 👋
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor [| Back-End |]
+💻 Eu sou um desenvolvedor | Back-End |
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [[Desenvolvimento de Software Fullstack] | [Desenvolvimento de Software com Foco em Back-End] | [Java]] @ [ [Cubos Academy] & [Alura] [(https://cubos.academy/) - (https://alura.com.br/) | Faculdade Das Américas - ADS | Alura / Cubos Academy / Fundação Bradesco]
+🎓 Eu estudo [Desenvolvimento de Software Fullstack] | [Desenvolvimento de Software com Foco em Back-End] | [Java]] @ [ [Cubos Academy] & [Alura] [(https://cubos.academy/) - (https://alura.com.br/) | Faculdade Das Américas - ADS | Alura / Cubos Academy / Fundação Bradesco
 
-👩‍💻 Atualmente eu trabalho como [Designer e Consultor de Marketing] @ [Americana Imóveis S/C LTDA]
+👩‍💻 Atualmente eu trabalho como Designer e Consultor de Marketing @ Americana Imóveis S/C LTDA
 
-🔎 Também sou curioso sobre [JavaScript, Java, Node.js, Edição e criação de imagens, UI/X, Edição de vídeos]
+🔎 Também sou curioso sobre JavaScript, Java, Node.js, Edição e criação de imagens, UI/X, Edição de vídeos
 
-✒️ Eu gosto de no meu tempo livre [Criar códigos com funções aleatórias, assistir aulas e estudar];
+✒️ Eu gosto de no meu tempo livre Criar códigos com funções aleatórias, assistir aulas e estudar;
 
-📚 Lendo: [Java Efetivo E. 3 - Bloch]
+📚 Lendo: Java Efetivo E. 3 - Bloch
 
 ### Eu já trabalhei com... 🔧
 
