@@ -36,7 +36,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <!-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/jetbrains-%0078d7.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-%0078d7.svg?style=for-the-badge&logo=IntelliJ&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%23E34F26.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Sublime](https://img.shields.io/badge/Sublime-%23E34F26.svg?style=for-the-badge&logo=Sublime&logoColor=white)
