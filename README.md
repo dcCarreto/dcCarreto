@@ -9,7 +9,7 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [Desenvolvimento de Software Fullstack] | [Desenvolvimento de Software com Foco em Back-End] | [Java]] @ [ [Cubos Academy] & [Alura] [(https://cubos.academy/) - (https://alura.com.br/) | Faculdade Das Américas - ADS | Alura / Cubos Academy / Fundação Bradesco
+🎓 Eu estudo [Desenvolvimento de Software Fullstack] | [Desenvolvimento de Software com Foco em Back-End] | [Java]] @ [ [Cubos Academy](https://cubos.academy/) & [Alura](https://alura.com.br/) | [Análise e desenvolvimento de sistemas](https://www.vemprafam.com.br/) |
 
 👩‍💻 Atualmente eu trabalho como Designer e Consultor de Marketing @ Americana Imóveis S/C LTDA
 
