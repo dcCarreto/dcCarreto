@@ -24,21 +24,20 @@
 **Tecnologias e Ferramentas**
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/JAVA-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%23F24E1E.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0078d7.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%23E34F26.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Sublime](https://img.shields.io/badge/Sublime-%23E34F26.svg?style=for-the-badge&logo=Sublime&logoColor=white)
-![RelaX](https://img.shields.io/badge/RelaX-%23E34F26.svg?style=for-the-badge&logo=Relax&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%23F24E1E.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![PowerArchitect](https://img.shields.io/badge/PowerArchitect-%23F24E1E.svg?style=for-the-badge&logo=PowerArchitect&logoColor=white)
+![RelaX](https://img.shields.io/badge/RelaX-%23E34F26.svg?style=for-the-badge&logo=Relax&logoColor=white)
 
 <!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
 
