@@ -4,7 +4,7 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor | Back-End |
+💻 Eu sou um desenvolvedor ***| Back-End |***
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
@@ -42,7 +42,7 @@
 <!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
 
 ### Eu estou estudando... 🧩
-<!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
+<!-- (Aqui você pode adicionar tecnologias que está estudando. -->
 
 ![Springboot](https://img.shields.io/badge/Springboot-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Springboot&logoColor=white)
@@ -120,14 +120,6 @@ Substitua o usuário Denis pelo seu usuário no GitHub.
 
 ### Entre em contato comigo! 📭
 <div>
-<!-- <a href="https://www.youtube.com/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
 <a href="https://instagram.com/dccarreto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!-- <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
 <a href="https://www.linkedin.com/in/denis-carreto-37a546280/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-
-
-<!-- Esse template foi feito por <a href="https://cubos.academy/" target="_blank">Cubos Academy!</a> ✨
-**academy-readme-template** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
