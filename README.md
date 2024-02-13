@@ -49,6 +49,7 @@
 
 ![Springboot](https://img.shields.io/badge/Springboot-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Springboot&logoColor=white)
+![C#](https://img.shields.io/badge/C#-%23323330.svg?style=for-the-badge&logo=C#&logoColor=%23F7DF1E)
 
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
