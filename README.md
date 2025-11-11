@@ -78,4 +78,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denis.carreto@outlook.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cerrytroi)
 
-**Fun Fact:** Já desenvolvi um sistema de automação para otimizar 30% do fluxo de marketing da minha empresa atual!
