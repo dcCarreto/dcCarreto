@@ -9,7 +9,7 @@ Estudante de Ciência da Computação | Designer & Consultor de Marketing
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
 - **Desenvolvedor Back-End**, com foco em **Java** e **Node.js**
 - Estudante de **Ciência da Computação** na **FAM**
@@ -24,9 +24,9 @@ Estudante de Ciência da Computação | Designer & Consultor de Marketing
 
 ---
 
-## ⚙️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
-### 🧠 Linguagens & Frameworks
+### Linguagens & Frameworks
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Estudante de Ciência da Computação | Designer & Consultor de Marketing
 
 ---
 
-### 🗄️ Bancos de Dados
+### Bancos de Dados
 
 <div align="center">
 
@@ -52,7 +52,7 @@ Estudante de Ciência da Computação | Designer & Consultor de Marketing
 
 ---
 
-### 🛠️ Ferramentas & DevTools
+### Ferramentas & DevTools
 
 <div align="center">
 
@@ -65,7 +65,7 @@ Estudante de Ciência da Computação | Designer & Consultor de Marketing
 
 ---
 
-## 📚 Estudando Atualmente
+## Estudando Atualmente
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Estudante de Ciência da Computação | Designer & Consultor de Marketing
 
 ---
 
-## 🎓 Certificações
+## Certificações
 
 <details>
 <summary><strong>Back-End & Desenvolvimento (23 certificados)</strong></summary>
@@ -103,7 +103,7 @@ Estudante de Ciência da Computação | Designer & Consultor de Marketing
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -114,7 +114,7 @@ Estudante de Ciência da Computação | Designer & Consultor de Marketing
 
 ---
 
-## 🌐 Conecte-se comigo
+## Conecte-se comigo
 
 <div align="center">
 
