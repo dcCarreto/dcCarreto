@@ -2,8 +2,8 @@
 
 <div align="center">
 
-**Desenvolvedor Back-End | Java • Node.js • .NET**  
-Estudante de Ciência da Computação | Designer & Consultor de Marketing
+Desenvolvedor Back-End especializado em **Java**, **Node.js** e **.NET**  
+Estudante de Ciência da Computação • Designer & Consultor de Marketing
 
 </div>
 
@@ -11,31 +11,46 @@ Estudante de Ciência da Computação | Designer & Consultor de Marketing
 
 ## Sobre Mim
 
-- **Desenvolvedor Back-End**, com foco em **Java** e **Node.js**
-- Estudante de **Ciência da Computação** na **FAM**
-- Formação complementar em **Back-End** pela **Cubos Academy** e **Alura**
-- Atuação paralela como **Designer e Consultor de Marketing** na **Americana Imóveis**
-- Leitura atual: *Java Efetivo – 3ª Edição* (Joshua Bloch)
-- Interesses principais:
-  - Arquitetura de Software
-  - APIs RESTful
-  - Bancos de Dados Relacionais
-  - Boas práticas e código limpo
+Sou **Desenvolvedor Back-End**, com foco em desenvolvimento de APIs, arquitetura de software e boas práticas de código.  
+Tenho formação contínua em **Java** e **Node.js**, aliando conhecimento técnico com experiência em **design** e **marketing**, o que me permite uma visão mais estratégica sobre produtos digitais.
+
+Atualmente:
+- Curso **Ciência da Computação** na FAM
+- Realizo cursos especializados em Back-End pela Cubos Academy e Alura
+- Atuo como Designer e Consultor de Marketing na Americana Imóveis
+- Leio *Java Efetivo – 3ª Edição* (Joshua Bloch)
+
+Principais interesses técnicos:
+- Arquitetura de Software
+- APIs RESTful
+- Microsserviços
+- Bancos de Dados Relacionais
+- Código limpo e escalável
 
 ---
 
-## Tecnologias & Ferramentas
+## Tecnologias e Competências
 
-### Linguagens & Frameworks
+### Linguagens de Programação
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
-![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?style=flat-square&logo=javascript)
-![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+</div>
+
+---
+
+### Frameworks e Plataformas
+
+<div align="center">
+
+![Spring](https://img.shields.io/badge/Spring-2E7D32?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1B5E20?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-2E7D32?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 </div>
 
@@ -52,7 +67,7 @@ Estudante de Ciência da Computação | Designer & Consultor de Marketing
 
 ---
 
-### Ferramentas & DevTools
+### Ferramentas e DevTools
 
 <div align="center">
 
@@ -65,12 +80,12 @@ Estudante de Ciência da Computação | Designer & Consultor de Marketing
 
 ---
 
-## Estudando Atualmente
+## Aprendizado Contínuo
 
 <div align="center">
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Java Collections](https://img.shields.io/badge/Java_Collections-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Arquitetura de Software](https://img.shields.io/badge/Arquitetura_de_Software-2C2C2C?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
@@ -80,7 +95,7 @@ Estudante de Ciência da Computação | Designer & Consultor de Marketing
 ## Certificações
 
 <details>
-<summary><strong>Back-End & Desenvolvimento (23 certificados)</strong></summary>
+<summary>Back-End e Desenvolvimento (23 certificados)</summary>
 
 - Java SE 7 Programmer I  
 - Java: Orientação a Objetos  
@@ -92,7 +107,7 @@ Estudante de Ciência da Computação | Designer & Consultor de Marketing
 </details>
 
 <details>
-<summary><strong>Design & Multimídia (8 certificados)</strong></summary>
+<summary>Design e Multimídia (8 certificados)</summary>
 
 - Adobe Photoshop Profissional  
 - Ilustração Vetorial com Illustrator  
@@ -103,18 +118,18 @@ Estudante de Ciência da Computação | Designer & Consultor de Marketing
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dcCarreto&show_icons=true&theme=radical&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcCarreto&layout=compact&langs_count=7&theme=radical"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=dcCarreto&show_icons=true&theme=radical&include_all_commits=true" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcCarreto&layout=compact&langs_count=8&theme=radical" />
 
 </div>
 
 ---
 
-## Conecte-se comigo
+## Contato Profissional
 
 <div align="center">
 
