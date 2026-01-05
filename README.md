@@ -13,13 +13,12 @@
 ### 𝚃𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊𝚜 & 𝙵𝚎𝚛𝚛𝚊𝚖𝚎𝚗𝚝𝚊𝚜
 
 #### 𝙻𝚒𝚗𝚐𝚞𝚊𝚐𝚎𝚗𝚜 & 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-![Spring](https://img.shields.io/badge/Spring-2e7d32?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-2e7d32?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=c-sharp)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet)
 
 
 #### 𝙱𝚊𝚗𝚌𝚘𝚜 𝚍𝚎 𝙳𝚊𝚍𝚘𝚜
