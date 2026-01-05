@@ -3,7 +3,7 @@
 <div align="center">
 
 Desenvolvedor Back-End especializado em **Java**, **Node.js** e **.NET**  
-Estudante de Ciência da Computação • Designer & Consultor de Marketing
+Desenvolvedor .NET (C#) na [**Lizy**](https://www.lizy.com.br/) • Estudante de Ciência da Computação
 
 </div>
 
@@ -12,20 +12,22 @@ Estudante de Ciência da Computação • Designer & Consultor de Marketing
 ## Sobre Mim
 
 Sou **Desenvolvedor Back-End**, com foco em desenvolvimento de APIs, arquitetura de software e boas práticas de código.  
-Tenho formação contínua em **Java** e **Node.js**, aliando conhecimento técnico com experiência em **design** e **marketing**, o que me permite uma visão mais estratégica sobre produtos digitais.
+Atualmente atuo como **Desenvolvedor .NET (C#) na empresa [Lizy](https://www.lizy.com.br/)**, trabalhando no desenvolvimento e manutenção de soluções backend escaláveis.
+
+Tenho formação contínua em **Java**, **Node.js** e **.NET**, aliando conhecimento técnico com experiência em **design** e **marketing**, o que me permite uma visão mais estratégica sobre produtos digitais.
 
 Atualmente:
 - Curso **Ciência da Computação** na FAM
-- Realizo cursos especializados em Back-End pela Cubos Academy e Alura
-- Atuo como Designer e Consultor de Marketing na Americana Imóveis
-- Leio *Java Efetivo – 3ª Edição* (Joshua Bloch)
+- Formação complementar em **Back-End** pela Cubos Academy e Alura
+- Atuo como **Desenvolvedor .NET (C#)** na **[Lizy](https://www.lizy.com.br/)**
+- Leitura atual: *Java Efetivo – 3ª Edição* (Joshua Bloch)
 
 Principais interesses técnicos:
 - Arquitetura de Software
 - APIs RESTful
 - Microsserviços
 - Bancos de Dados Relacionais
-- Código limpo e escalável
+- Código limpo, escalável e testável
 
 ---
 
@@ -33,7 +35,7 @@ Principais interesses técnicos:
 
 ### Linguagens de Programação
 
-<div align="center">
+<div align="left">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript)
@@ -45,7 +47,7 @@ Principais interesses técnicos:
 
 ### Frameworks e Plataformas
 
-<div align="center">
+<div align="left">
 
 ![Spring](https://img.shields.io/badge/Spring-2E7D32?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1B5E20?style=for-the-badge&logo=springboot&logoColor=white)
@@ -58,7 +60,7 @@ Principais interesses técnicos:
 
 ### Bancos de Dados
 
-<div align="center">
+<div align="left">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -69,7 +71,7 @@ Principais interesses técnicos:
 
 ### Ferramentas e DevTools
 
-<div align="center">
+<div align="left">
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -82,7 +84,7 @@ Principais interesses técnicos:
 
 ## Aprendizado Contínuo
 
-<div align="center">
+<div align="left">
 
 ![Java Collections](https://img.shields.io/badge/Java_Collections-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Arquitetura de Software](https://img.shields.io/badge/Arquitetura_de_Software-2C2C2C?style=for-the-badge)
