@@ -12,7 +12,7 @@ Desenvolvedor .NET (C#) na [**Lizy**](https://www.lizy.com.br/) • Estudante de
 ## Sobre Mim
 
 Sou **Desenvolvedor Back-End**, com foco em desenvolvimento de APIs, arquitetura de software e boas práticas de código.  
-Atualmente atuo como **Desenvolvedor .NET (C#) na empresa [Lizy](https://www.lizy.com.br/)**, trabalhando no desenvolvimento e manutenção de soluções backend escaláveis.
+Atuei como **Desenvolvedor .NET (C#) na empresa [Lizy](https://www.lizy.com.br/)**, trabalhando no desenvolvimento e manutenção de soluções backend escaláveis.
 
 Tenho formação contínua em **Java**, **Node.js** e **.NET**, aliando conhecimento técnico com experiência em **design** e **marketing**, o que me permite uma visão mais estratégica sobre produtos digitais.
 
