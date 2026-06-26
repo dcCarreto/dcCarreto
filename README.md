@@ -19,7 +19,6 @@ Tenho formação contínua em **Java**, **Node.js** e **.NET**, aliando conhecim
 Atualmente:
 - Curso **Ciência da Computação** na FAM
 - Formação complementar em **Back-End** pela Cubos Academy e Alura
-- Atuo como **Desenvolvedor .NET (C#)** na **[Lizy](https://www.lizy.com.br/)**
 - Leitura atual: *Java Efetivo – 3ª Edição* (Joshua Bloch)
 
 Principais interesses técnicos:
