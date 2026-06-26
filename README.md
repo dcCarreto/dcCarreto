@@ -3,7 +3,7 @@
 <div align="center">
 
 Desenvolvedor Back-End especializado em **Java**, **Node.js** e **.NET**  
-Desenvolvedor .NET (C#) na [**Lizy**](https://www.lizy.com.br/) • Estudante de Ciência da Computação
+• Estudante de Ciência da Computação
 
 </div>
 
