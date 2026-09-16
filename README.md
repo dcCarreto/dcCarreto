@@ -2,7 +2,6 @@
 
 <div align="center">
 
-Construo software local-first: sem nuvem obrigatória, sem assinatura, sem coletar dado de quem usa.  
 Desenvolvedor .NET (C#) • Ciência da Computação na FAM
 
 </div>
@@ -27,7 +26,7 @@ Ciência da Computação na FAM, com formação complementar em back-end pela Cu
 
 ## Projetos em destaque
 
-### 🔐 [CofreDeSenhas](https://github.com/dcCarreto/CofreDeSenhas)
+### [CofreDeSenhas](https://github.com/dcCarreto/CofreDeSenhas)
 Gerenciador de senhas multiplataforma (Windows/Linux). Cofre local cifrado com AES-256-GCM e
 Argon2id, gerador de senhas, TOTP, chave de recuperação, sincronização opcional entre
 dispositivos ou com banco externo, e acessibilidade em nível especialista (leitor de tela,
@@ -42,7 +41,7 @@ ativo.
 App desktop (Windows/Linux/macOS) com 19 ferramentas de PDF — mesclar, dividir, comprimir,
 proteger, converter, anotar, OCR, redação real e assinatura digital — tudo rodando localmente,
 sem enviar um arquivo sequer pra nuvem e sem paywall. Testes cobrindo cada operação, CI rodando
-nos três sistemas operacionais a cada push.
+nos três sistemas operacionais a cada push — em desenvolvimento.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
@@ -62,7 +61,6 @@ num banco local — sem conta, sem nuvem, sem assinatura. Em fase de MVP.
 
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
