@@ -37,7 +37,7 @@ ativo.
 ![Avalonia](https://img.shields.io/badge/Avalonia-UI-blueviolet?style=flat-square)
 ![CI](https://github.com/dcCarreto/CofreDeSenhas/actions/workflows/ci.yml/badge.svg)
 
-### 📄 [OpenFolio PDF Suite](https://github.com/dcCarreto/openfolio-pdf-suite)
+### [OpenFolio PDF Suite](https://github.com/dcCarreto/openfolio-pdf-suite)
 App desktop (Windows/Linux/macOS) com 19 ferramentas de PDF — mesclar, dividir, comprimir,
 proteger, converter, anotar, OCR, redação real e assinatura digital — tudo rodando localmente,
 sem enviar um arquivo sequer pra nuvem e sem paywall. Testes cobrindo cada operação, CI rodando
@@ -47,7 +47,7 @@ nos três sistemas operacionais a cada push — em desenvolvimento.
 ![PySide6](https://img.shields.io/badge/PySide6-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
-### 📦 [Assetly](https://github.com/dcCarreto/Assetly)
+### [Assetly](https://github.com/dcCarreto/Assetly)
 App desktop para organizar bens pessoais, garantias, documentos, manutenções e gastos de saúde
 num banco local — sem conta, sem nuvem, sem assinatura. Em fase de MVP.
 
