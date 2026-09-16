@@ -2,92 +2,81 @@
 
 <div align="center">
 
-Desenvolvedor Back-End especializado em **Java**, **Node.js** e **.NET**  
-• Estudante de Ciência da Computação
+Construo software local-first: sem nuvem obrigatória, sem assinatura, sem coletar dado de quem usa.  
+Desenvolvedor .NET (C#) • Ciência da Computação na FAM
 
 </div>
 
 ---
 
-## Sobre Mim
+## Sobre mim
 
-Sou **Desenvolvedor Back-End**, com foco em desenvolvimento de APIs, arquitetura de software e boas práticas de código.  
-Atuei como **Desenvolvedor .NET (C#) na empresa [Lizy](https://www.lizy.com.br/)**, trabalhando no desenvolvimento e manutenção de soluções backend escaláveis.
+Toda ferramenta que eu construo começa com a mesma pergunta: dá pra fazer isso rodando na
+máquina da pessoa, sem depender de um servidor de terceiros guardando os dados dela?
 
-Tenho formação contínua em **Java**, **Node.js** e **.NET**, aliando conhecimento técnico com experiência em **design** e **marketing**, o que me permite uma visão mais estratégica sobre produtos digitais.
+O [CofreDeSenhas](https://github.com/dcCarreto/CofreDeSenhas) começou como um script de CLI
+que só cuspia senha aleatória em texto. Virou um gerenciador de senhas completo — cofre local
+cifrado, sincronização opcional, acessibilidade de verdade — mas a lógica de partida nunca
+mudou: sua senha mestra nunca sai do seu computador. Segui repetindo esse padrão no
+[OpenFolio PDF Suite](https://github.com/dcCarreto/openfolio-pdf-suite) (edição de PDF sem
+subir arquivo pra nuvem de ninguém) e no [Assetly](https://github.com/dcCarreto/Assetly)
+(organização de bens e garantias sem conta, sem assinatura).
 
-Atualmente:
-- Curso **Ciência da Computação** na FAM
-- Formação complementar em **Back-End** pela Cubos Academy e Alura
-- Leitura atual: *Java Efetivo – 3ª Edição* (Joshua Bloch)
+Atuei como desenvolvedor .NET (C#) na [Lizy](https://www.lizy.com.br/), e sigo cursando
+Ciência da Computação na FAM, com formação complementar em back-end pela Cubos Academy e Alura.
 
-Principais interesses técnicos:
-- Arquitetura de Software
-- APIs RESTful
-- Microsserviços
-- Bancos de Dados Relacionais
-- Código limpo, escalável e testável
+## Projetos em destaque
+
+### 🔐 [CofreDeSenhas](https://github.com/dcCarreto/CofreDeSenhas)
+Gerenciador de senhas multiplataforma (Windows/Linux). Cofre local cifrado com AES-256-GCM e
+Argon2id, gerador de senhas, TOTP, chave de recuperação, sincronização opcional entre
+dispositivos ou com banco externo, e acessibilidade em nível especialista (leitor de tela,
+navegação 100% por teclado). Gratuito, código aberto, sem telemetria — em desenvolvimento
+ativo.
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Avalonia](https://img.shields.io/badge/Avalonia-UI-blueviolet?style=flat-square)
+![CI](https://github.com/dcCarreto/CofreDeSenhas/actions/workflows/ci.yml/badge.svg)
+
+### 📄 [OpenFolio PDF Suite](https://github.com/dcCarreto/openfolio-pdf-suite)
+App desktop (Windows/Linux/macOS) com 19 ferramentas de PDF — mesclar, dividir, comprimir,
+proteger, converter, anotar, OCR, redação real e assinatura digital — tudo rodando localmente,
+sem enviar um arquivo sequer pra nuvem e sem paywall. Testes cobrindo cada operação, CI rodando
+nos três sistemas operacionais a cada push.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+
+### 📦 [Assetly](https://github.com/dcCarreto/Assetly)
+App desktop para organizar bens pessoais, garantias, documentos, manutenções e gastos de saúde
+num banco local — sem conta, sem nuvem, sem assinatura. Em fase de MVP.
+
+![C#](https://img.shields.io/badge/C%23-.NET-68217A?style=flat-square&logo=c-sharp&logoColor=white)
 
 ---
 
-## Tecnologias e Competências
-
-### Linguagens de Programação
+## Tecnologias
 
 <div align="left">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-</div>
-
----
-
-### Frameworks e Plataformas
-
-<div align="left">
-
-![Spring](https://img.shields.io/badge/Spring-2E7D32?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1B5E20?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-2E7D32?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
 
----
-
-### Bancos de Dados
+### Bancos de dados e ferramentas
 
 <div align="left">
 
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
-
----
-
-### Ferramentas e DevTools
-
-<div align="left">
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## Aprendizado Contínuo
-
-<div align="left">
-
-![Java Collections](https://img.shields.io/badge/Java_Collections-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Arquitetura de Software](https://img.shields.io/badge/Arquitetura_de_Software-2C2C2C?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -132,7 +121,7 @@ Principais interesses técnicos:
 
 ---
 
-## Contato Profissional
+## Contato
 
 <div align="left">
 
